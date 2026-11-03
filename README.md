@@ -175,6 +175,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [adamsreview](./plugins/adamsreview)
 - [slicewise](./plugins/slicewise)
 - [bullpen](./plugins/bullpen)
+- [setup-hooks](./plugins/setup-hooks) - Walks you through adding hooks to your project (notifications, a PreToolUse guard for `.env` and `rm -rf`, format-on-edit, tests on Stop, a session briefing) and a read-only reviewer subagent, testing each one. Install: `/plugin install setup-hooks --marketplace tomtom87/blog`
 
 ### Communication & Integrations
 - [whatsapp-claude-plugin](https://github.com/Rich627/whatsapp-claude-plugin) — WhatsApp channel plugin for Claude Code. Connects as a linked device via Baileys v7 with bidirectional messaging, full media support, voice transcription, permission relay, and access control.

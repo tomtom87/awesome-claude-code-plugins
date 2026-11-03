@@ -1,0 +1,18 @@
+{
+  "name": "setup-hooks",
+  "version": "1.0.0",
+  "description": "Walks you through setting up Claude Code hooks and a read-only subagent in your project, one step at a time, testing each hook as it goes.",
+  "author": {
+    "name": "Tom Whitbread",
+    "url": "https://github.com/tomtom87"
+  },
+  "repository": "https://github.com/tomtom87/blog",
+  "license": "MIT",
+  "keywords": [
+    "hooks",
+    "guardrails",
+    "quality-gates",
+    "subagents",
+    "notifications"
+  ]
+}

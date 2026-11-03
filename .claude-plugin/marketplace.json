@@ -2316,6 +2316,24 @@
         "tokens",
         "audit"
       ]
+    },
+    {
+      "name": "setup-hooks",
+      "source": "./plugins/setup-hooks",
+      "description": "Walks you through setting up Claude Code hooks and a read-only subagent in your project, one step at a time, testing each hook as it goes.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Tom Whitbread",
+        "url": "https://github.com/tomtom87"
+      },
+      "category": "Code Quality Testing",
+      "homepage": "https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/setup-hooks",
+      "keywords": [
+        "hooks",
+        "guardrails",
+        "quality-gates",
+        "subagents"
+      ]
     }
   ]
 }
